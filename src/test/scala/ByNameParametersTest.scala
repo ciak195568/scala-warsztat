@@ -31,7 +31,7 @@ class ByNameParametersTest extends FunSuite {
   test("testByNameExercise") {
     // Przykładowy test do byNameExercise
 
-//    val time = ByNameParameters.byValueExercise(println("Hello World!"))
+//    val time = ByNameParameters.byNameExercise(println("Hello World!"))
 //
 //    println("Execution time: " + time + " nanoseconds" )
   }
